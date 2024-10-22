@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldBinding", "HelloWorldBinding\HelloWorldBinding.csproj", "{A5A2783E-9F05-41DA-9DB6-301645D67808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiHelloWorldApp", "MauiHelloWorldApp\MauiHelloWorldApp.csproj", "{86CA35AE-3C9C-4F97-9069-681227FBAC57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A2783E-9F05-41DA-9DB6-301645D67808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A2783E-9F05-41DA-9DB6-301645D67808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A2783E-9F05-41DA-9DB6-301645D67808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A2783E-9F05-41DA-9DB6-301645D67808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86CA35AE-3C9C-4F97-9069-681227FBAC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CA35AE-3C9C-4F97-9069-681227FBAC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CA35AE-3C9C-4F97-9069-681227FBAC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CA35AE-3C9C-4F97-9069-681227FBAC57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B92706AA-CAE7-433A-9C64-4A39C9627C7D}
+	EndGlobalSection
+EndGlobal
