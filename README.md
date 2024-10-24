@@ -1,4 +1,4 @@
-# Android library ´.aar´ to .NET MAUI App
+# Android library ".aar" to .NET MAUI App
 
 |<img src="img/androidTonetMaui.jpeg" />|
 | ---------- |
